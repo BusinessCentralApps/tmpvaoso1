@@ -1,0 +1,6 @@
+{
+  "templateUrl": "https://github.com/Microsoft/al-go-pte@preview",
+  "powerPlatformSolutionFolder": "TakeOrder",
+  "type": "PTE",
+  "MicrosoftTelemetryConnectionString": ""
+}
